@@ -1,4 +1,4 @@
-Projeto Internet of Things
+Projeto Internet of Things - IOT
 =======
 
 Projeto para a Hackaton da Telefonica: Internet of Things
